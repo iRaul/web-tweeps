@@ -25,3 +25,16 @@
 | Mathias Bynens | [@mathias](https://twitter.com/mathias) | Working on V8 JavaScript Engine at Google. |
 | Axel Rauschmayer | [@rauschma](https://twitter.com/rauschma) | Blogging about JavaScript. Author of multiple JavaScript books. |
 | Kyle Simpson | [@getify](https://twitter.com/getify) | JavaScript Teacher. Author of multiple JavaScript books. |
+| Hakim El Hattab | [@hakimel](https://twitter.com/hakimel) | Co-founder of Slides. Creator of  Reveal.js & Sketchtoy. |
+
+## CSS
+*This includes Web Designers who code in HTML & CSS.*
+
+| Name  | Twitter | About |
+| ------------- | ------------- | ------------- |
+| Harry Roberts | [@csswizardry](https://twitter.com/csswizardry) | Consultant Front-end Architect. Author of CSS Guidelines. |
+| Chris Coyier | [@chriscoyier](https://twitter.com/chriscoyier) | Writer & founder at CSS Tricks. Co-Founder & Designer at Codepen. |
+| Benjamin De Cock | [@bdc](https://twitter.com/bdc) | User Interface Designer at Stripe. Creator of Front-End Guidelines. |
+| Jonathan Snook | [@snookca](https://twitter.com/bdc) | Freelance Web Designer/Developer. Author of SMACSS book. |
+| Rachel Andrew | [@rachelandrew](https://twitter.com/rachelandrew) | CSS Working Group Invited Expert. Creator of Grid by Example. |
+| Una Kravets | [@Una](https://twitter.com/Una) | Sr UI Engineer DigitalOcean. Podcast co-host at Toolsday. |
