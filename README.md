@@ -3,6 +3,8 @@
 # Web Tweeps ⚡️
 > A curated list of developers & designers to follow on twitter.
 
+- Contributions welcome, please see [contribution guide](contributing.md).
+
 ## JavaScript
 *This includes developers who work with various Javascript Frameworks.* ⚛️
 
@@ -52,3 +54,7 @@
 | Eric Meyer | [@meyerweb](https://twitter.com/meyerweb) | HTML and CSS Expert. Creator of CSS Reset method. |
 | Simurai | [@simurai](https://twitter.com/simurai) | Designer at GitHub, working on Atom and Electron. CSS fiddler. |
 | Brad Frost | [@brad_frost](https://twitter.com/brad_frost) | Professional Web Designer. Author of Atomic Design book. |
+
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
