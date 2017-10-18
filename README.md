@@ -36,6 +36,19 @@
 | Nicolás Bevacqua | [@nzgb](https://twitter.com/nzgb) | Writer & founder at Ponyfoo. OSS Lover.  |
 | Zeno Rocha | [@zenorocha](https://twitter.com/zenorocha) | Born to create & share. Creator of clipboard.js and dracula-theme.  |
 
+## PHP
+
+| Name  | Twitter | About |
+| ------------- | ------------- | ------------- |
+| Rasmus Lerdorf | [@rasmus](https://twitter.com/rasmus) | Breaking the Web. Creator of PHP. |
+| Taylor Otwell | [@taylorotwell](https://twitter.com/taylorotwell) | Created Laravel, Forge, Envoyer, and more. |
+| Fabien Potencier | [@fabpot](https://twitter.com/fabpot) | Founder and project lead at Symfony |
+| Rob Allen | [@akrabat](https://twitter.com/akrabat) | Lead developer of Slim Framework. |
+| Josh Lockhart | [@codeguy](https://twitter.com/codeguy) | Founder of Slim Framework and PHP The Right Way. |
+| Sebastian Bergmann | [@s_bergmann](https://twitter.com/s_bergmann) | Created PHP Unit. |
+| Jeffrey Way | [@jeffrey_way](https://twitter.com/jeffrey_way) | Laracasts owner. Former teacher at Tuts+ |
+| Jordi Boggiano | [@seldaek](https://twitter.com/seldaek) | Co-Founder of Packagist. Dev at ComposerPHP |
+
 ## CSS
 *This includes also Web Designers who code like pros in HTML & CSS.* 😎
 
@@ -57,6 +70,7 @@
 | Simurai | [@simurai](https://twitter.com/simurai) | Designer at GitHub, working on Atom and Electron. CSS fiddler. |
 | Dave Shea | [@mezzoblue](https://twitter.com/mezzoblue) | Professional Web Designer. Creator of CSS Zen Garden. |
 | Dan Cederholm | [@simplebits](https://twitter.com/simplebits) | Co-Founder at Dribbble. Author of 3 CSS books. |
+| Daniel Eden | [@_dte](https://twitter.com/_dte) | Product Designer at Facebook. Creator of animate.css. |
 
 
 ## License
