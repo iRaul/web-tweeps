@@ -37,7 +37,7 @@
 | Zeno Rocha | [@zenorocha](https://twitter.com/zenorocha) | Born to create & share. Creator of clipboard.js and dracula-theme.  |
 
 ## CSS
-*This includes also Web Designers who code in HTML & CSS and are very good at it.* 😎
+*This includes also Web Designers who code like pros in HTML & CSS.* 😎
 
 | Name  | Twitter | About |
 | ------------- | ------------- | ------------- |
