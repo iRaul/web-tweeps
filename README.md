@@ -44,17 +44,19 @@
 | Harry Roberts | [@csswizardry](https://twitter.com/csswizardry) | Consultant Front-end Architect. Author of CSS Guidelines. |
 | Chris Coyier | [@chriscoyier](https://twitter.com/chriscoyier) | Writer & founder at CSS Tricks. Co-Founder & Designer at Codepen. |
 | Benjamin De Cock | [@bdc](https://twitter.com/bdc) | User Interface Designer at Stripe. Creator of Front-End Guidelines. |
+| Brad Frost | [@brad_frost](https://twitter.com/brad_frost) | Professional Web Designer. Author of Atomic Design book. |
 | Jonathan Snook | [@snookca](https://twitter.com/bdc) | Freelance Web Designer/Developer. Author of SMACSS book. |
 | Rachel Andrew | [@rachelandrew](https://twitter.com/rachelandrew) | CSS Working Group Invited Expert. Creator of Grid by Example. |
 | Una Kravets | [@Una](https://twitter.com/Una) | Senior UI Engineer DigitalOcean. Podcast co-host at Toolsday. |
 | Mark Otto | [@mdo](https://twitter.com/mdo) | Senior Director of Design GitHub. Creator of Bootstrap. |
 | Hugo Giraudel | [@HugoGiraudel](https://twitter.com/HugoGiraudel) | Accessibility advocate, author, speaker. Creator of Sass Guidelines. |
+| Lea Verou | [@LeaVerou](https://twitter.com/LeaVerou) | Professional Web Designer. Author of CSS Secrets book. |
 | Sara Soueidan | [@SaraSoueidan](https://twitter.com/SaraSoueidan) | Front-End Developer. Author of Codrops CSS Reference. |
 | Rogie King | [@rogie](https://twitter.com/rogie) | Designer / Illustrator / Developer. Co-Founder of SuperTeamDeluxe. |
 | Eric Meyer | [@meyerweb](https://twitter.com/meyerweb) | HTML and CSS Expert. Creator of CSS Reset method. |
 | Simurai | [@simurai](https://twitter.com/simurai) | Designer at GitHub, working on Atom and Electron. CSS fiddler. |
-| Brad Frost | [@brad_frost](https://twitter.com/brad_frost) | Professional Web Designer. Author of Atomic Design book. |
-| Lea Verou | [@LeaVerou](https://twitter.com/LeaVerou) | Professional Web Designer. Author of CSS Secrets book. |
+| Dave Shea | [@mezzoblue](https://twitter.com/mezzoblue) | Professional Web Designer. Creator of CSS Zen Garden. |
+| Dan Cederholm | [@simplebits](https://twitter.com/simplebits) | Co-Founder at Dribbble. Author of 3 CSS books. |
 
 
 ## License
