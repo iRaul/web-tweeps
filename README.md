@@ -1,6 +1,7 @@
+![WebTweeps Image](https://i.imgur.com/CKrMXrQ.png)
+
 # Web Tweeps ⚡️
 > A curated list of developers & designers to follow on twitter.
-
 
 ## JavaScript
 *This includes developers who work with various Javascript Frameworks.*
@@ -37,4 +38,7 @@
 | Benjamin De Cock | [@bdc](https://twitter.com/bdc) | User Interface Designer at Stripe. Creator of Front-End Guidelines. |
 | Jonathan Snook | [@snookca](https://twitter.com/bdc) | Freelance Web Designer/Developer. Author of SMACSS book. |
 | Rachel Andrew | [@rachelandrew](https://twitter.com/rachelandrew) | CSS Working Group Invited Expert. Creator of Grid by Example. |
-| Una Kravets | [@Una](https://twitter.com/Una) | Sr UI Engineer DigitalOcean. Podcast co-host at Toolsday. |
+| Una Kravets | [@Una](https://twitter.com/Una) | Senior UI Engineer DigitalOcean. Podcast co-host at Toolsday. |
+| Mark Otto | [@mdo](https://twitter.com/mdo) | Senior Director of Design GitHub. Creator of Bootstrap. |
+| Hugo Giraudel | [@HugoGiraudel](https://twitter.com/HugoGiraudel) | Accessibility advocate, author, speaker. Creator of Sass Guidelines. |
+| Sara Soueidan | [@SaraSoueidan](https://twitter.com/SaraSoueidan) | Front-End Developer. Author of Codrops CSS Reference. |
