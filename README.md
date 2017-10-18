@@ -37,6 +37,7 @@
 | Zeno Rocha | [@zenorocha](https://twitter.com/zenorocha) | Born to create & share. Creator of clipboard.js and dracula-theme.  |
 
 ## PHP
+*This includes developers who work with various PHP Frameworks.* 🐘
 
 | Name  | Twitter | About |
 | ------------- | ------------- | ------------- |
@@ -47,7 +48,8 @@
 | Josh Lockhart | [@codeguy](https://twitter.com/codeguy) | Founder of Slim Framework and PHP The Right Way. |
 | Sebastian Bergmann | [@s_bergmann](https://twitter.com/s_bergmann) | Created PHP Unit. |
 | Jeffrey Way | [@jeffrey_way](https://twitter.com/jeffrey_way) | Laracasts owner. Former teacher at Tuts+ |
-| Jordi Boggiano | [@seldaek](https://twitter.com/seldaek) | Co-Founder of Packagist. Dev at ComposerPHP |
+| Jordi Boggiano | [@seldaek](https://twitter.com/seldaek) | Co-Founder of Packagist. ComposerPHP lead dev. |
+| Dries Buytaert | [@Dries](https://twitter.com/Dries) | Founder and project lead of Drupal. |
 
 ## CSS
 *This includes also Web Designers who code like pros in HTML & CSS.* 😎
