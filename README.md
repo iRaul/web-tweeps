@@ -4,7 +4,7 @@
 > A curated list of developers & designers to follow on twitter.
 
 ## JavaScript
-*This includes developers who work with various Javascript Frameworks.*
+*This includes developers who work with various Javascript Frameworks.* ⚛️
 
 | Name  | Twitter | About |
 | ------------- | ------------- | ------------- |
@@ -26,10 +26,16 @@
 | Mathias Bynens | [@mathias](https://twitter.com/mathias) | Working on V8 JavaScript Engine at Google. |
 | Axel Rauschmayer | [@rauschma](https://twitter.com/rauschma) | Blogging about JavaScript. Author of multiple JavaScript books. |
 | Kyle Simpson | [@getify](https://twitter.com/getify) | JavaScript Teacher. Author of multiple JavaScript books. |
-| Hakim El Hattab | [@hakimel](https://twitter.com/hakimel) | Co-founder of Slides. Creator of  Reveal.js & Sketchtoy. |
+| Hakim El Hattab | [@hakimel](https://twitter.com/hakimel) | Co-founder of Slides. Creator of reveal.js & Sketchtoy. |
+| Ryan Florence | [@ryanflorence](https://twitter.com/ryanflorence) | Co-Author React Router and Co-Owner React Training. |
+| Ben Alman | [@cowboy](https://twitter.com/cowboy) | Creator of Grunt.js and frequent contributor to jQuery |
+| Andrew Clark | [@acdlite](https://twitter.com/acdlite) | Working at Facebook. Co-creator of Redux. |
+| Jay Phelps | [@_jayphelps](https://twitter.com/_jayphelps) | Working at Netflix. Creator of redux-observable.  |
+| Nicolás Bevacqua | [@nzgb](https://twitter.com/nzgb) | Writer & founder at Ponyfoo. OSS Lover.  |
+| Zeno Rocha | [@zenorocha](https://twitter.com/zenorocha) | Born to create & share. Creator of clipboard.js and dracula-theme.  |
 
 ## CSS
-*This includes Web Designers who code in HTML & CSS.*
+*This includes also Web Designers who code in HTML & CSS and are very good at it.* 😎
 
 | Name  | Twitter | About |
 | ------------- | ------------- | ------------- |
@@ -42,3 +48,7 @@
 | Mark Otto | [@mdo](https://twitter.com/mdo) | Senior Director of Design GitHub. Creator of Bootstrap. |
 | Hugo Giraudel | [@HugoGiraudel](https://twitter.com/HugoGiraudel) | Accessibility advocate, author, speaker. Creator of Sass Guidelines. |
 | Sara Soueidan | [@SaraSoueidan](https://twitter.com/SaraSoueidan) | Front-End Developer. Author of Codrops CSS Reference. |
+| Rogie King | [@rogie](https://twitter.com/rogie) | Designer / Illustrator / Developer. Co-Founder of SuperTeamDeluxe. |
+| Eric Meyer | [@meyerweb](https://twitter.com/meyerweb) | HTML and CSS Expert. Creator of CSS Reset method. |
+| Simurai | [@simurai](https://twitter.com/simurai) | Designer at GitHub, working on Atom and Electron. CSS fiddler. |
+| Brad Frost | [@brad_frost](https://twitter.com/brad_frost) | Professional Web Designer. Author of Atomic Design book. |
