@@ -54,6 +54,7 @@
 | Eric Meyer | [@meyerweb](https://twitter.com/meyerweb) | HTML and CSS Expert. Creator of CSS Reset method. |
 | Simurai | [@simurai](https://twitter.com/simurai) | Designer at GitHub, working on Atom and Electron. CSS fiddler. |
 | Brad Frost | [@brad_frost](https://twitter.com/brad_frost) | Professional Web Designer. Author of Atomic Design book. |
+| Lea Verou | [@LeaVerou](https://twitter.com/LeaVerou) | Professional Web Designer. Author of CSS Secrets book. |
 
 
 ## License
