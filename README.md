@@ -36,6 +36,7 @@
 | Nicolás Bevacqua | [@nzgb](https://twitter.com/nzgb) | Writer & founder at Ponyfoo. OSS Lover.  |
 | Zeno Rocha | [@zenorocha](https://twitter.com/zenorocha) | Born to create & share. Creator of clipboard.js and dracula-theme.  |
 | Misko Hevery | [@mhevery](https://twitter.com/mhevery) | Working at Google. Father of Angular.js.  |
+| Rach Smith | [@rachsmithtweets](https://twitter.com/rachsmithtweets) | Pixel pusher & JavaScript wrangler at CodePen.  |
 
 ## PHP
 *This includes developers who work with various PHP Frameworks.* 🐘
