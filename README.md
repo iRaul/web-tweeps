@@ -78,6 +78,7 @@
 | Dave Shea | [@mezzoblue](https://twitter.com/mezzoblue) | Professional Web Designer. Creator of CSS Zen Garden. |
 | Dan Cederholm | [@simplebits](https://twitter.com/simplebits) | Co-Founder at Dribbble. Author of 3 CSS books. |
 | Daniel Eden | [@_dte](https://twitter.com/_dte) | Product Designer at Facebook. Creator of animate.css. |
+| Steve Schoger | [@steveschoger](https://twitter.com/steveschoger) | Multidisciplinary Designer. Tweets lots of design tips. |
 | Mary Lou | [@crnacura](https://twitter.com/crnacura) | Web Designer and Developer. Co-founder of Codrops. |
 
 
