@@ -35,6 +35,9 @@
 | Jay Phelps | [@_jayphelps](https://twitter.com/_jayphelps) | Working at Netflix. Creator of redux-observable.  |
 | Nicolás Bevacqua | [@nzgb](https://twitter.com/nzgb) | Writer & founder at Ponyfoo. OSS Lover.  |
 | Zeno Rocha | [@zenorocha](https://twitter.com/zenorocha) | Born to create & share. Creator of clipboard.js and dracula-theme.  |
+| Misko Hevery | [@mhevery](https://twitter.com/mhevery) | Working at Google. Father of Angular.js.  |
+| Rach Smith | [@rachsmithtweets](https://twitter.com/rachsmithtweets) | Pixel pusher & JavaScript wrangler at CodePen.  |
+| Dave DeSandro | [@desandro](https://twitter.com/desandro) | Designer and Developer running Metafizzy. Creator of Masonry.  |
 
 ## PHP
 *This includes developers who work with various PHP Frameworks.* 🐘
@@ -52,7 +55,7 @@
 | Dries Buytaert | [@Dries](https://twitter.com/Dries) | Founder and project lead of Drupal. |
 
 ## CSS
-*This includes also Web Designers who code like pros in HTML & CSS.* 😎
+*This includes Web Designers who code like pros in HTML & CSS.* 😎
 
 | Name  | Twitter | About |
 | ------------- | ------------- | ------------- |
@@ -73,7 +76,8 @@
 | Dave Shea | [@mezzoblue](https://twitter.com/mezzoblue) | Professional Web Designer. Creator of CSS Zen Garden. |
 | Dan Cederholm | [@simplebits](https://twitter.com/simplebits) | Co-Founder at Dribbble. Author of 3 CSS books. |
 | Daniel Eden | [@_dte](https://twitter.com/_dte) | Product Designer at Facebook. Creator of animate.css. |
-| Steve Schoger | [@steveschoger](https://twitter.com/steveschoger) | Multidisciplinary Designer. Tweets lots of design tips |
+| Steve Schoger | [@steveschoger](https://twitter.com/steveschoger) | Multidisciplinary Designer. Tweets lots of design tips. |
+| Mary Lou | [@crnacura](https://twitter.com/crnacura) | Web Designer and Developer. Co-founder of Codrops. |
 
 
 ## License
