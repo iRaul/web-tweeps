@@ -37,6 +37,7 @@
 | Zeno Rocha | [@zenorocha](https://twitter.com/zenorocha) | Born to create & share. Creator of clipboard.js and dracula-theme.  |
 | Misko Hevery | [@mhevery](https://twitter.com/mhevery) | Working at Google. Father of Angular.js.  |
 | Rach Smith | [@rachsmithtweets](https://twitter.com/rachsmithtweets) | Pixel pusher & JavaScript wrangler at CodePen.  |
+| Dave DeSandro | [@desandro](https://twitter.com/desandro) | Designer and Developer running Metafizzy. Creator of Masonry.  |
 
 ## PHP
 *This includes developers who work with various PHP Frameworks.* 🐘
