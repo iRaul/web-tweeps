@@ -52,7 +52,7 @@
 | Dries Buytaert | [@Dries](https://twitter.com/Dries) | Founder and project lead of Drupal. |
 
 ## CSS
-*This includes also Web Designers who code like pros in HTML & CSS.* 😎
+*This includes Web Designers who code like pros in HTML & CSS.* 😎
 
 | Name  | Twitter | About |
 | ------------- | ------------- | ------------- |
