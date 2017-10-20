@@ -53,7 +53,7 @@
 | Jeffrey Way | [@jeffrey_way](https://twitter.com/jeffrey_way) | Laracasts owner. Former teacher at Tuts+ |
 | Jordi Boggiano | [@seldaek](https://twitter.com/seldaek) | Co-Founder of Packagist. ComposerPHP lead dev. |
 | Dries Buytaert | [@Dries](https://twitter.com/Dries) | Founder and project lead of Drupal. |
-| Adam Wathan | [@adamwathan](https://twitter.com/adamwathan) | Creator of Test-Driven Laravel, Refactoring to Collections & Full Stack Radio. |
+| Adam Wathan | [@adamwathan](https://twitter.com/adamwathan) | Creator of Test-Driven Laravel, Hosting Full Stack Radio. |
 
 
 ## CSS
