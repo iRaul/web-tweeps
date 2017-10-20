@@ -53,7 +53,8 @@
 | Jeffrey Way | [@jeffrey_way](https://twitter.com/jeffrey_way) | Laracasts owner. Former teacher at Tuts+ |
 | Jordi Boggiano | [@seldaek](https://twitter.com/seldaek) | Co-Founder of Packagist. ComposerPHP lead dev. |
 | Dries Buytaert | [@Dries](https://twitter.com/Dries) | Founder and project lead of Drupal. |
-| Adam Wathan | [@adamwathan](https://twitter.com/adamwathan) | Creator of Test-Driven Laravel, Hosting Full Stack Radio. |
+| Adam Wathan | [@adamwathan](https://twitter.com/adamwathan) | Creator of Test-Driven Laravel. Hosting Full Stack Radio. |
+| Dayle Rees | [@daylerees](https://twitter.com/daylerees) | Laravel evangelist. Author of Code Smart book. |
 
 
 ## CSS
@@ -74,12 +75,14 @@
 | Sara Soueidan | [@SaraSoueidan](https://twitter.com/SaraSoueidan) | Front-End Developer. Author of Codrops CSS Reference. |
 | Rogie King | [@rogie](https://twitter.com/rogie) | Designer / Illustrator / Developer. Co-Founder of SuperTeamDeluxe. |
 | Eric Meyer | [@meyerweb](https://twitter.com/meyerweb) | HTML and CSS Expert. Creator of CSS Reset method. |
+| Mary Lou | [@crnacura](https://twitter.com/crnacura) | Web Designer and Developer. Co-founder of Codrops. |
 | Simurai | [@simurai](https://twitter.com/simurai) | Designer at GitHub, working on Atom and Electron. CSS fiddler. |
 | Dave Shea | [@mezzoblue](https://twitter.com/mezzoblue) | Professional Web Designer. Creator of CSS Zen Garden. |
 | Dan Cederholm | [@simplebits](https://twitter.com/simplebits) | Co-Founder at Dribbble. Author of 3 CSS books. |
+| Jen Simmons | [@jensimmons](https://twitter.com/jensimmons) | Designer Advocate at Mozilla. Member of CSS Working Group. |
 | Daniel Eden | [@_dte](https://twitter.com/_dte) | Product Designer at Facebook. Creator of animate.css. |
 | Steve Schoger | [@steveschoger](https://twitter.com/steveschoger) | Multidisciplinary Designer. Tweets lots of design tips. |
-| Mary Lou | [@crnacura](https://twitter.com/crnacura) | Web Designer and Developer. Co-founder of Codrops. |
+| Sarah Drasner | [@sarah_edo](https://twitter.com/sarah_edo) | Developer Advocate at Microsoft. Co-founder of Web Animation Workshops. |
 
 
 ## License
