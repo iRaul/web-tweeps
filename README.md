@@ -85,5 +85,21 @@
 | Sarah Drasner | [@sarah_edo](https://twitter.com/sarah_edo) | Developer Advocate at Microsoft. Co-founder of Web Animation Workshops. |
 
 
+## iOS 📱
+
+| Name  | Twitter | About |
+| ------------- | ------------- | ------------- |
+| Chris Lattner | [@clattner_llvm](https://twitter.com/clattner_llvm) | Swift creator. |
+| Sam Soffes | [@soffes](https://twitter.com/soffes) | Swift Developer. Runtime podcast co-host. |
+| Ash Furrow | [@ashfurrow](https://twitter.com/ashfurrow) | iOS Developer. Author of Your First Swift App book. |
+| Ole Begemann | [@olebegemann](https://twitter.com/olebegemann) | iOS and Mac Developer. Co-author of Advanced Swift book. |
+| Chris Eidhof | [@chriseidhof](https://twitter.com/chriseidhof) | Founder of objc.io. Author of Functional Swift. |
+| Ray Wenderlich | [@rwenderlich](https://twitter.com/rwenderlich) | iOS Developer. Founder of raywenderlich.com. |
+| Dave Verwer | [@daveverwer](https://twitter.com/daveverwer) | Author of iOS Dev Weekly. |
+| Peter Steinberger | [@steipete](https://twitter.com/steipete) | Founder and CEO at PSPDFKit. |
+| Felix Krause | [@steipete](https://twitter.com/steipete) | Creator of fastlane.tools. |
+| Mike Rundle | [@flyosity](https://twitter.com/flyosity) | Crafting beautiful products for Mac, iPhone & iPad. |
+
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
