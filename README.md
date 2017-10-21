@@ -83,6 +83,7 @@
 | Daniel Eden | [@_dte](https://twitter.com/_dte) | Product Designer at Facebook. Creator of animate.css. |
 | Steve Schoger | [@steveschoger](https://twitter.com/steveschoger) | Multidisciplinary Designer. Tweets lots of design tips. |
 | Sarah Drasner | [@sarah_edo](https://twitter.com/sarah_edo) | Developer Advocate at Microsoft. Co-founder of Web Animation Workshops. |
+| Travis Neilson | [@travisneilson](https://twitter.com/travisneilson) | Designer & Developer. Founder of DevTips Youtube channel. |
 
 
 ## iOS 📱
