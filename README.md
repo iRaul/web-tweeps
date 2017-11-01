@@ -38,6 +38,7 @@
 | Misko Hevery | [@mhevery](https://twitter.com/mhevery) | Working at Google. Father of Angular.js.  |
 | Rach Smith | [@rachsmithtweets](https://twitter.com/rachsmithtweets) | Pixel pusher & JavaScript wrangler at CodePen.  |
 | Dave DeSandro | [@desandro](https://twitter.com/desandro) | Designer and Developer running Metafizzy. Creator of Masonry.  |
+| Christopher Chedeau | [@Vjeux](https://twitter.com/vjeux) | Front-End Engineer at Facebook. Working on React.  |
 
 ## PHP
 *This includes developers who work with various PHP Frameworks.* 🐘
