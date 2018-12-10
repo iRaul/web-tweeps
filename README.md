@@ -93,6 +93,7 @@
 | Tim Holman | [@twholman](https://twitter.com/twholman) | [tholman.com](http://tholman.com/) |
 | Loren Schmidt | [@lorenschmidt](https://twitter.com/lorenschmidt) | [vacuumflowers.com](http://vacuumflowers.com/projects/) |
 | Eliza Sj | [@iamelizasj](https://twitter.com/iamelizasj) | [www.elizasj.com](https://www.elizasj.com/) |
+| Tyler Hobbs | [@tylhobbs](https://twitter.com/tylhobbs) | [www.tylerlhobbs.com](https://www.tylerlhobbs.com/) |
 
 
 ## License
