@@ -59,7 +59,7 @@
 | Simurai | [@simurai](https://twitter.com/simurai) | [simurai.com](http://simurai.com/) |
 | Dave Shea | [@mezzoblue](https://twitter.com/mezzoblue) | [daveshea.com](http://daveshea.com/) |
 | Daniel Eden | [@dte](https://twitter.com/_dte) | [daneden.me](https://daneden.me/) |
-| Nicole Sullivan | [@stubbornella](https://twitter.com/stubbornella) | | [stubbornella.org](http://www.stubbornella.org/) |
+| Nicole Sullivan | [@stubbornella](https://twitter.com/stubbornella) | [stubbornella.org](http://www.stubbornella.org/) |
 | Val Head | [@vlh](https://twitter.com/vlh) | [valhead.com](https://valhead.com/) |
 
 
