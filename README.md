@@ -79,7 +79,21 @@
 | Stefanie Posavec | [@stefpos](https://twitter.com/stefpos) | [stefanieposavec.com](http://www.stefanieposavec.com/) | 
 | Nadieh Bremer | [@NadiehBremer](https://twitter.com/NadiehBremer) | [visualcinnamon.com](https://www.visualcinnamon.com/) | 
 | Anna Ridler | [@annaridler](https://twitter.com/annaridler) | [annaridler.com](http://annaridler.com/) | 
-| Baku Hashimoto | [@baku89](https://twitter.com/_baku89) | [baku89.com](https://baku89.com/) | 
+| Baku Hashimoto | [@baku89](https://twitter.com/_baku89) | [baku89.com](https://baku89.com/) |
+| Sher Minn | [@piratefsh](https://twitter.com/piratefsh) | [piratefsh.github.io](http://piratefsh.github.io/) |
+| Frederik Vanhoutte | [@wblut](https://twitter.com/wblut) | [wblut.com](https://www.wblut.com/) |
+| Kjetil Golid | [@kGolid](https://twitter.com/kGolid) | [generated.space](https://generated.space/) |
+| Nicole He | [@nicolehe](https://twitter.com/nicolehe) | [nicole.pizza](http://nicole.pizza/) |
+| Marcin Ignac | [@marcinignac](https://twitter.com/marcinignac) | [marcinignac.com](http://marcinignac.com/) |
+| Jaume Sanchez Elias | [@thespite](https://twitter.com/thespite) | [clicktorelease.com](https://www.clicktorelease.com/) |
+| Yi-Wen Lin | [@yiwen_lin](https://twitter.com/yiwen_lin) | [wensday.co](http://wensday.co/) |
+| Yuan Chuan | [@yuanchuan23](https://twitter.com/yuanchuan23) | [yuanchuan.name](https://yuanchuan.name/) |
+| Shirley Wu | [@sxywu](https://twitter.com/sxywu) | [sxywu.com](http://sxywu.com/) |
+| Elgin-Skye | [@elginskye](https://twitter.com/elginskye) | [emclaren.github.io](https://emclaren.github.io/portfolio/) |
+| Tim Holman | [@twholman](https://twitter.com/twholman) | [tholman.com](http://tholman.com/) |
+| Loren Schmidt | [@lorenschmidt](https://twitter.com/lorenschmidt) | [vacuumflowers.com](http://vacuumflowers.com/projects/) |
+| Eliza Sj | [@iamelizasj](https://twitter.com/iamelizasj) | [www.elizasj.com](https://www.elizasj.com/) |
+
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
