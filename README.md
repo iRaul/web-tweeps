@@ -38,7 +38,7 @@
 | Zeno Rocha | [@zenorocha](https://twitter.com/zenorocha) | [zenorocha.com](https://zenorocha.com/) |
 | Dave DeSandro | [@desandro](https://twitter.com/desandro) | [desandro.com](https://desandro.com/)  |
 | Lin Clark | [@linclark](https://twitter.com/linclark) | [code-cartoons.com](https://code-cartoons.com/) |
-| Monica Dinculescu | | [@notwaldorf](https://twitter.com/notwaldorf) | | [meowni.ca](https://meowni.ca/) |
+| Monica Dinculescu | [@notwaldorf](https://twitter.com/notwaldorf) | [meowni.ca](https://meowni.ca/) |
 
 
 ## CSS
@@ -60,7 +60,7 @@
 | Dave Shea | [@mezzoblue](https://twitter.com/mezzoblue) | [daveshea.com](http://daveshea.com/) |
 | Daniel Eden | [@dte](https://twitter.com/_dte) | [daneden.me](https://daneden.me/) |
 | Nicole Sullivan | [@stubbornella](https://twitter.com/stubbornella) | | [stubbornella.org](http://www.stubbornella.org/) |
-| Val Head | | [@vlh](https://twitter.com/vlh) | | [valhead.com](https://valhead.com/) |
+| Val Head | [@vlh](https://twitter.com/vlh) | [valhead.com](https://valhead.com/) |
 
 
 ## Creative Coding / Generative Art 𝍇
