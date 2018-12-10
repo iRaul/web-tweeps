@@ -67,19 +67,19 @@
 | Name  | Twitter | Website |
 | ------------- | ------------- | ------------- |
 | Matt DesLauriers | [@mattdesl](https://twitter.com/clattner_llvm) | [https://www.mattdesl.com/](https://www.mattdesl.com/) |
-| Anders Hoff | | [@inconvergent](https://twitter.com/inconvergent) | | [inconvergent.net](https://inconvergent.net/) | 
-| Joanie Lemercier | | [@JoanieLemercier](https://twitter.com/JoanieLemercier) | | [joanielemercier.com](https://joanielemercier.com/) | 
-| Alba G. Corral | | [@albagcorral](https://twitter.com/albagcorral) | | [blog.albagcorral.com](https://blog.albagcorral.com/) | 
-| Jessica Rosenkrantz | | [@nervous_jessica](https://twitter.com/nervous_jessica) | | [n-e-r-v-o-u-s.com](https://n-e-r-v-o-u-s.com/) | 
-| Saskia Freeke | | [@sasj_nl](https://twitter.com/sasj_nl) | | [sasj.nl](http://sasj.nl/) | 
-| Lia | | [@liasomething](https://twitter.com/liasomething) | | [liaworks.com](http://www.liaworks.com/) | 
-| Manolo Gamboa Naon | | [@manoloidee](https://twitter.com/manoloidee) | | [manoloide.com](http://manoloide.com/) | 
-| Étienne Jacob | | [@n_disorder](https://twitter.com/n_disorder) | | [necessary-disorder.tumblr.com](https://necessary-disorder.tumblr.com/) | 
-| Generate Me | | [@generateme_blog](https://twitter.com/generateme_blog) | | [generateme.tumblr.com](http://generateme.tumblr.com/) | 
-| Stefanie Posavec | | [@stefpos](https://twitter.com/stefpos) | | [stefanieposavec.com](http://www.stefanieposavec.com/) | 
-| Nadieh Bremer | | [@NadiehBremer](https://twitter.com/NadiehBremer) | | [visualcinnamon.com](https://www.visualcinnamon.com/) | 
-| Anna Ridler | | [@annaridler](https://twitter.com/annaridler) | | [annaridler.com](http://annaridler.com/) | 
-| Baku Hashimoto | | [@baku89](https://twitter.com/_baku89) | | [baku89.com](https://baku89.com/) | 
+| Anders Hoff | [@inconvergent](https://twitter.com/inconvergent) | [inconvergent.net](https://inconvergent.net/) | 
+| Joanie Lemercier | [@JoanieLemercier](https://twitter.com/JoanieLemercier) | [joanielemercier.com](https://joanielemercier.com/) | 
+| Alba G. Corral | [@albagcorral](https://twitter.com/albagcorral) | [blog.albagcorral.com](https://blog.albagcorral.com/) | 
+| Jessica Rosenkrantz | [@nervous_jessica](https://twitter.com/nervous_jessica) | [n-e-r-v-o-u-s.com](https://n-e-r-v-o-u-s.com/) | 
+| Saskia Freeke | [@sasj_nl](https://twitter.com/sasj_nl) | [sasj.nl](http://sasj.nl/) | 
+| Lia | [@liasomething](https://twitter.com/liasomething) | [liaworks.com](http://www.liaworks.com/) | 
+| Manolo Gamboa Naon | [@manoloidee](https://twitter.com/manoloidee) | [manoloide.com](http://manoloide.com/) | 
+| Étienne Jacob | [@n_disorder](https://twitter.com/n_disorder) | [necessary-disorder.tumblr.com](https://necessary-disorder.tumblr.com/) | 
+| Generate Me | [@generateme_blog](https://twitter.com/generateme_blog) | [generateme.tumblr.com](http://generateme.tumblr.com/) | 
+| Stefanie Posavec | [@stefpos](https://twitter.com/stefpos) | [stefanieposavec.com](http://www.stefanieposavec.com/) | 
+| Nadieh Bremer | [@NadiehBremer](https://twitter.com/NadiehBremer) | [visualcinnamon.com](https://www.visualcinnamon.com/) | 
+| Anna Ridler | [@annaridler](https://twitter.com/annaridler) | [annaridler.com](http://annaridler.com/) | 
+| Baku Hashimoto | [@baku89](https://twitter.com/_baku89) | [baku89.com](https://baku89.com/) | 
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
